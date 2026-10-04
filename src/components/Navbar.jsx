@@ -13,7 +13,7 @@ function Navbar() {
 
             <div className="m-8 flex items-center justify-center gap-4 text-2xl">
                 <a
-                    href="https://www.linkedin.com/in/your-linkedin-profile"
+                    href="https://www.linkedin.com/in/shreya-pandey-89b90133a"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Linkedin"
@@ -22,7 +22,7 @@ function Navbar() {
                 </a>
 
                 <a
-                    href="https://github.com/your-github-profile"
+                    href="https://github.com/shreya-pandey03"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="GitHub"
@@ -40,7 +40,7 @@ function Navbar() {
                 </a> */}
 
                 <a
-                    href="https://twitter.com/your-twitter-profile"
+                    href="https://x.com/Shreya_0330"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Twitter"
