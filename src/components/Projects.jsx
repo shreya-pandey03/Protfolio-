@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { title } from "framer-motion/client";
 
-const Projects = [
+const PROJECTS = [
   {
     title: "Multiplayer Quiz Game",
     description:
