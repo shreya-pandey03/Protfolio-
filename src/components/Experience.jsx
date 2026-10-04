@@ -5,7 +5,7 @@ const EXPERIENCES = [
     year: "2025 - Present",
     title: " Full Stack Developer",
     description: " Developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases.",
-    stack: ["JavaScript", "React.js", "Next.js", "MongoDB", "HTML", "CSS-TailwindCSS"],
+    stack: ["MERN","JavaScript", "React.js", "Next.js", "MongoDB","PostgreSQL"],
   },
 
 ];

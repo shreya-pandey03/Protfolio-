@@ -3,9 +3,8 @@ import { motion } from "framer-motion";
 
 
 const CONTACT = {
-  address: "Jankipuram , Lucknow",
-  phoneNo: "+1 (555) 123-4567",
-  email: "you@example.com",
+   phoneNo: "+12 3333 777 888 ",
+  email: "shreya@gmail.com",
 };
 
 function Contact() {

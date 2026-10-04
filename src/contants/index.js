@@ -8,7 +8,6 @@ export const HERO_CONTENT = `A Full Stack Developer is a versatile software prof
 
 
 export const CONTACT = {
-  address: "Jankipuram , Lucknow ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  phoneNo: "+12 3333 777 888 ",
+  email: "shreya@gmail.com",
 };

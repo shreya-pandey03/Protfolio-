@@ -1,4 +1,5 @@
 import { motion } from "framer-motion";
+import { title } from "framer-motion/client";
 
 const PROJECTS = [
     {
@@ -9,9 +10,14 @@ const PROJECTS = [
     },
     {
         title: "Music App",
-        description: "A music app that allows users to stream, search, and discover songs from various genres and artists. Users can create playlists, like tracks, and enjoy a personalized listening experience based on their preferences. The app supports real-time playback syncing using WebSockets, enabling features like collaborative playlists and group listening sessions.",
+        description: "A music app that allows users to stream, search, and discover songs from various genres and artists. Users can create playlists, like tracks, and enjoy a personalized listening experience based on their preferences.",
         technologies: ["Next.js"]
     },
+    {
+        title:"Stone–Paper–Scissors",
+        description:"A multiplayer Stone–Paper–Scissors application where users can play real-time matches with friends or random opponents. The app supports live move submission, instant win/loss determination, and score tracking using WebSockets for real-time communication.",
+        technologies:["HTML","CSS","JavaScript"]
+    }
 ];
 function Projects() {
     return (

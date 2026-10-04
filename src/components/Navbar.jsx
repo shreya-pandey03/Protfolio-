@@ -30,14 +30,14 @@ function Navbar() {
                     <FaGithub />
                 </a>
 
-                <a
+                {/* <a
                     href="https://www.instagram.com/your-instagram-profile"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="Instagram"
                 >
                     <FaInstagram />
-                </a>
+                </a> */}
 
                 <a
                     href="https://twitter.com/your-twitter-profile"
